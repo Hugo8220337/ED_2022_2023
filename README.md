@@ -1,7 +1,7 @@
 <h1 align="center">Practical Work on Estruturas de Dados (Data Structures)</h1>
 
 <p>
-  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2022/2023&color=GREEN"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2023/2024&color=GREEN"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=ED&color=GREEN"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=?&color=sucess"/>
 </p>
